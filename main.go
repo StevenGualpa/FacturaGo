@@ -1,4 +1,4 @@
-package FacGo
+package main
 
 import (
 	"FacGo/models"
@@ -7,7 +7,6 @@ import (
 	"github.com/spf13/viper"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
-
 	"log"
 )
 
